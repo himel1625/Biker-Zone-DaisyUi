@@ -1,1 +1,1 @@
-## TailwindCSS + DaisyUi
+# TailwindCSS + DaisyUi
